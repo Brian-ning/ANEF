@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a29426d-c49d-4d5d-8e09-afb5502edb9d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Multilayer_Network_Embedding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaulateQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/Layer_Distance_Calculation/CS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Embedding" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NMI_Calculation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node2Vec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Node2Vec_LayerSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/Node2Vec_LayerSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sampler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Word2Vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/Word2Vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lat_lon_distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/link_pred.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tester.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/Layer_Distance_Calculation/Layer_Distance_hierarchical_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Layer_Distance_Calculation/Layer_Distance_hierarchical_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/Layer_Distance_Calculation/multired.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Layer_Distance_Calculation/multired.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/Mat2graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Mat2graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/Sep2Merged.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Sep2Merged.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/graph2pickle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/graph2pickle.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Multilayer_Network_Embedding" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>self</find>
+      <find>dimension</find>
+      <find>MPC</find>
+      <find>MHRIW_LayerSelect</find>
+      <find>MHWI</find>
+      <find>walk_length</find>
+      <find>MHWL</find>
+      <find>tf</find>
+      <find>self.ps</find>
+      <find>self.s_p</find>
+      <find>e_p</find>
+      <find>ps</find>
+      <find>m_graph_sampled</find>
+      <find>nx_graphs_sampled</find>
+      <find>Reader</find>
+      <find>ff</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1288" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectId" id="1V3uaQPQvoaezn5KXYdSaXhO66p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="128&#9;null&#9;null&#10;check&#9;ACTION&#9;WelcomeScreen.GetFromVcs&#10;che&#9;ACTION&#9;WelcomeScreen.GetFromVcs&#10;chec&#9;ACTION&#9;WelcomeScreen.GetFromVcs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Mpx2Vec\ModularityEvulate\tools" />
+      <recent name="F:\Mpx2Vec\ModularityEvulate\tools\Layers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="CaulateQ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CaulateQ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mat2graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/Mat2graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sep2Merged" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/Sep2Merged.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sep2MergedWeight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/Sep2MergedWeight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Multilayer_Network_Embedding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CaulateQ" />
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.Mat2graph" />
+      <item itemvalue="Python.Sep2MergedWeight" />
+      <item itemvalue="Python.Sep2Merged" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.CaulateQ" />
+        <item itemvalue="Python.Sep2MergedWeight" />
+        <item itemvalue="Python.Mat2graph" />
+        <item itemvalue="Python.Sep2Merged" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a29426d-c49d-4d5d-8e09-afb5502edb9d" name="Default" comment="" />
+      <created>1511967990987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511967990987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Multilayer_Network_Embedding - 2017.11.29 at 23h 11m 32s.xml">
+      <configuration name="Unittests in Multilayer_Network_Embedding" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Multilayer_Network_Embedding - 2017.11.29 at 23h 14m 11s.xml">
+      <configuration name="Unittests in Multilayer_Network_Embedding" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Multilayer_Network_Embedding - 2017.11.29 at 23h 15m 46s.xml">
+      <configuration name="Unittests in Multilayer_Network_Embedding" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="365" key="GridCell.Tab.0.bottom" timestamp="1576494460039">
+      <screen x="-1280" y="0" width="1280" height="994" />
+    </state>
+    <state width="1259" height="365" key="GridCell.Tab.0.bottom/-1280.0.1280.994/0.0.1600.870@-1280.0.1280.994" timestamp="1576494460039" />
+    <state width="1259" height="365" key="GridCell.Tab.0.center" timestamp="1576494460039">
+      <screen x="-1280" y="0" width="1280" height="994" />
+    </state>
+    <state width="1259" height="365" key="GridCell.Tab.0.center/-1280.0.1280.994/0.0.1600.870@-1280.0.1280.994" timestamp="1576494460039" />
+    <state width="1259" height="365" key="GridCell.Tab.0.left" timestamp="1576494460039">
+      <screen x="-1280" y="0" width="1280" height="994" />
+    </state>
+    <state width="1259" height="365" key="GridCell.Tab.0.left/-1280.0.1280.994/0.0.1600.870@-1280.0.1280.994" timestamp="1576494460039" />
+    <state width="1259" height="365" key="GridCell.Tab.0.right" timestamp="1576494460039">
+      <screen x="-1280" y="0" width="1280" height="994" />
+    </state>
+    <state width="1259" height="365" key="GridCell.Tab.0.right/-1280.0.1280.994/0.0.1600.870@-1280.0.1280.994" timestamp="1576494460039" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/show.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/show1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/Sep2Merged.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiplexcd.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="M_mapping" />
+        <watch expression="__py_debug_temp_var_1213899265" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>df.loc[row]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df.get_value(column)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>norm_probs</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nodeinfluence</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e[2]['weight']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m_g[e[0]][e[1]]['weight']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m_g.has_edge(e[0], e[1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m_g[e[0], e[1]]['weight']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e[2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+</project>
